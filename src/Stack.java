@@ -1,5 +1,5 @@
 public class Stack {
-    private int[]stack;
+    protected int[]stack;
     private final int defaultnumber=10;
     int pointer=-1;
     public Stack(){
